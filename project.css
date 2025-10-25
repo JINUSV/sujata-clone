@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.head{
+    display: flex;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    gap: 100px;
+}
+.head nav ul{
+    margin-left: 20px;
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+}
+.head nav ul li:hover{
+    color: red;
+}
+.logo1{
+    width: 144px;
+    height: 50px;
+}
+.logo2{
+    margin-left: 200px;
+    width: 66px;
+    height: 66px;
+}
+.image2{
+    width: 100%;
+}
+.item{
+    gap: 500px;
+    display: flex;
+}
+.headline1{
+    text-align: center;
+    margin-left: 250px;
+}
+.headline2{
+    text-align: center;
+}
+.pic1{
+    width: 350px;
+}
+.pic2{
+    width: 350px;
+}
+.pictures{
+    margin-left: 170px;
+    gap: 30px;
+    display: flex;
+}
+.pictures img{
+    width: 300px;
+}
+.end{
+    height: 30px;
+}
+.endbar{
+    font-weight: bolder;
+}
+.last{
+    background-color:  rgb(111, 106, 106);
+}
+.footer{
+    background-color: rgb(111, 106, 106);
+    gap: 100px;
+    display: flex;
+    text-align: left;
+    margin-left: 200px;
+
+}
+.icone ul{
+    
+    margin-left: -40px;
+    display: flex;
+}
+.footer h3{
+    color: white;
+}
+.footer ul li{
+    list-style-type: none;
+    font-weight: bold;
+    color: white;
+}
+.line{
+    background-color: rgb(111, 106, 106);
+    height: 50px;
+    text-align: left;
+    margin-left: 200px;
+    color: white;
+}
